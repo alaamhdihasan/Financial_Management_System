@@ -1,0 +1,42 @@
+@font-face {
+    font-family: myFont;
+    src: url('../fonts/JF-FLAT-REGULAR.TTF');
+}
+
+.titlefont {
+    font-family: myFont;
+}
+
+.navbar {
+    font-family: myFont;
+}
+
+.offcanvas->nav {
+    font-family: myFont;
+}
+
+.nav-link {
+    font-family: myFont;
+}
+
+.text-muted {
+    font-family: myFont;
+}
+
+.card {
+    font-family: myFont;
+}
+
+.btn {
+    font-family: myFont;
+}
+
+.alert {
+    font-family: myFont;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #9400d3;
+    color: #fff;
+    border: 3px solid #9400d3;
+}

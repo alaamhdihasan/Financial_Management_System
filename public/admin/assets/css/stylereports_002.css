@@ -1,0 +1,15 @@
+.column {
+    height: 85px;
+    width: 33.33%;
+    float: left;
+    color: black;
+    text-align: center
+}
+
+.columnfooter {
+    /* height: 85px; */
+    width: 33.33%;
+    float: start;
+    color: black;
+    text-align: center
+}
